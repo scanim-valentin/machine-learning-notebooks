@@ -1,0 +1,30 @@
+	<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Service Web d'Authentification - Stale Request</title>
+        <link rel="stylesheet" type="text/css" href="/idp/css/main.css">
+    </head>
+  	
+    <body>
+    <div class="wrapper">
+    	<div class="container">
+        	<header>
+				<img src="/idp/images/logo-insa.jpg" alt="Remplacez ou supprimez ce logo">
+				<h3>Service Web d'Authentification - Stale Request</h3>
+			</header>
+		
+        	<div class="content">
+<p>Vous rencontrez ce message d'erreur parce que vous avez peut-être utilisé le bouton de retour à la page précédente alors que vous naviguiez dans une application ou un site web sécurisé. Ou alors, vous avez peut-être sauvegardé dans un signet le formulaire d'authentification au lieu de l'application elle-même, ou encore utilisé un lien créé par quelqu'un d'autre qui a commis la même erreur.</p><br/><p>Sans un traitement approprié, cela peut causer des problèmes sur certains navigateurs ou peut aussi vous renvoyer sur le site web que vous vouliez quitter, et donc cette page vous est présentée à la place.</p>            </div>
+    	</div>
+
+      	<footer>
+        	<div class="container container-footer">
+          		<p class="footer-text">Institut National des Sciences Appliquées</p>
+        	</div>
+      	</footer>
+      	
+    </div>
+    </body>
+</html>
